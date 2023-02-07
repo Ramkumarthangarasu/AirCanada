@@ -14,4 +14,8 @@ public class Sample {
 	private void m4() {
 	System.out.println("ram@123");
 	}
+	private void m5() {
+		// TODO Auto-generated method stub
+
+	}
 }
