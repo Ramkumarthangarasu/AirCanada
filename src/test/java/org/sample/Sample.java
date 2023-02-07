@@ -26,4 +26,12 @@ public class Sample {
 		// TODO Auto-generated method stub
 
 	}
+	private void m8() {
+		// TODO Auto-generated method stub
+
+	}
+	private void m9() {
+	
+	}
+	
 }
