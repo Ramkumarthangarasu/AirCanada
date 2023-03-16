@@ -33,5 +33,12 @@ public class Sample {
 	private void m9() {
 	
 	}
+	private void tc1() {
+
+	}
+
+	private void tc2() {
+
+	}
 	
 }
