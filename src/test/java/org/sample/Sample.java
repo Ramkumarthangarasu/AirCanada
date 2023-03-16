@@ -40,5 +40,14 @@ public class Sample {
 	private void tc2() {
 
 	}
+
 	
+	private void vicky() {
+		// TODO Auto-generated method stub
+
+	}
+	private void bala() {
+		// TODO Auto-generated method stub
+
+	}
 }
