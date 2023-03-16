@@ -32,11 +32,11 @@ public class Sample {
 	private void m9() {
 	
 	}
-	private void emp1() {
+private void emp5() {
 
-	}
-	private void emp2() {
+}
+private void emp6() {
+	// TODO Auto-generated method stub
 
-	}
-	
+}
 }
