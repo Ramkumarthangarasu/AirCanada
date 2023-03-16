@@ -41,4 +41,13 @@ public class Sample {
 
 	}
 	
+	private void prabu() {
+		// TODO Auto-generated method stub
+
+	}
+	private void praveen() {
+		// TODO Auto-generated method stub
+
+	}
+	
 }
