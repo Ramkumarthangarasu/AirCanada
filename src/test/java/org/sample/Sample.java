@@ -27,11 +27,16 @@ public class Sample {
 
 	}
 	private void m8() {
-		// TODO Auto-generated method stub
 
 	}
 	private void m9() {
 	
+	}
+	private void emp1() {
+
+	}
+	private void emp2() {
+
 	}
 	
 }
