@@ -50,4 +50,20 @@ public class Sample {
 		// TODO Auto-generated method stub
 
 	}
+	private void chennai() {
+		// TODO Auto-generated method stub
+
+	}
+	private void kalapatti() {
+		// TODO Auto-generated method stub
+
+	}
+	private void tiruppur() {
+		// TODO Auto-generated method stub
+
+	}
+	private void dindukal() {
+		// TODO Auto-generated method stub
+
+	}
 }
