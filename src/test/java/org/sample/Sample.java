@@ -50,4 +50,17 @@ public class Sample {
 		// TODO Auto-generated method stub
 
 	}
+	private void namakkal() {
+		// TODO Auto-generated method stub
+
+	}
+	private void selam() {
+		// TODO Auto-generated method stub
+
+	}
+	private void cbe() {
+		// TODO Auto-generated method stub
+
+	}
+	
 }
